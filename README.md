@@ -22,9 +22,7 @@
         <li>
             <a href="#">Контакты</a>
         </li>
-        <li>
-            <a href="#"></a>
-        </li>
+       
     </ul>
 </nav>
 <button>mailto:info@devstudio.com</button> 
