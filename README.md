@@ -1,9 +1,9 @@
-# homework1<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>WebStudio/title>
+    <title>WebStudio</title>
 </head>
 <body>
     <!-- Шапка сайта -->
@@ -12,7 +12,7 @@
     <a href="#">
     <img src="./img/WebStudio.svg" alt="WebStudio">
 </a>
-    <ul>и
+    <ul>
         <li>
             <a href="#">Студия</a>
         </li>
